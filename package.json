@@ -1,0 +1,21 @@
+{
+  "name": "web_crawler_project",
+  "version": "1.0.0",
+  "description": "A scalable web crawler for discovering product URLs on e-commerce websites.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.21.2",
+    "puppeteer": "^23.11.1",
+    "user-agents": "^1.1.401"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
